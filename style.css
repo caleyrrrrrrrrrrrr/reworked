@@ -119,20 +119,20 @@ html {
 .button {
     border: none;
     color: white;
-    background-color: #00C8A0;
+    background-color: #5C3550;
     padding: 16px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     margin: 4px 2px;
-    transition-duration: 0.4s;
-    cursor: pointer;
+/*    transition-duration: 0.4s;
+    cursor: pointer; */
   }
 
-.instagram{
-    display: inline-block;
-}
+.button:hover {
+    background-color: #111;
+  }
 
 .gallery{
     display: grid;
