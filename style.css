@@ -1,3 +1,5 @@
+/* This is a single-line comment */
+
 html, body{
     margin: 0px;
     height: 100%;
@@ -130,4 +132,10 @@ html {
 
 .instagram{
     display: inline-block;
+}
+
+.gallery{
+    display: grid;
+    /* grid-template-columns: 20% 20% 20%; */
+    align-items: center;
 }
