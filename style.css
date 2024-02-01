@@ -135,12 +135,6 @@ html {
   }
 
 .gallery{
-    display: grid;
-    /* grid-template-columns: 20% 20% 20%; */
-    align-items: center;
-}
-
-.gallery{
     padding:10%;
     width:300px%;
     height:300px;
