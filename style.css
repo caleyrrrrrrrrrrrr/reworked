@@ -136,15 +136,15 @@ html {
 
 .gallery{
     padding:10%;
-    width:300px%;
-    height:300px;
+    width:90%;
+    height:90%;
     clear:both;
    }
 .gallery>div{
-    width:100px;
-    height:100px;
+    width:30%;
+    height:30%;
     float:left;
-    line-height:100px;
+    line-height:30%;
     text-align:center;    
    }
 .gallery>div>img{
