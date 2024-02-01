@@ -139,3 +139,23 @@ html {
     /* grid-template-columns: 20% 20% 20%; */
     align-items: center;
 }
+
+.gallery{
+    padding:10%;
+    width:90%;
+    height:90%;
+    clear:both;
+   }
+.gallery>div{
+    width:30%;
+    height:30%;
+    float:left;
+    line-height:30%;
+    text-align:center;    
+   }
+.gallery>div>img{
+    display:inline-block;
+    vertical-align:middle;
+    max-width:90%;
+    max-height:90%;
+   }
